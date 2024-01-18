@@ -70,20 +70,23 @@
 // console.log(student.sort((b,a)=> b.gpa - a.gpa))
 
 //bai moi (nhap so lan can 4 lon nhat)
-let n= 5;
-let arr = []; 
-for(let i=0;i<n;i++ ){
-    arr[i]=[];
-    for(let j=0; j<n;j++){
-        arr[i][j]=Math.floor(Math.random()* (27-13)+13);
-    }
-}
+// let n= 5;
+// let arr = []; 
+// for(let i=0;i<n;i++ ){
+//     arr[i]=[];
+//     for(let j=0; j<n;j++){
+//         arr[i][j]=Math.floor(Math.random()* (27-13)+13);
+//     }
+// }
 
-console.log(arr);
+// console.log(arr);
 
-for( let i=0; i<n;i++){
-    for( let j=0; j<n;j++)
-}
+// for( let i=0; i<n;i++){
+//     for( let j=0; j<n;j++)
+// }
+
+var fullName = "Hoang Gia Khuonng";
+alert(fullName);
 
 
 
